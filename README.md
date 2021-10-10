@@ -5,3 +5,4 @@ Tech stack:
 - General: ES6+ JS
 - Frontend: ReactJS
 - Server: ExpressJS
+- Infrastructure: Docker, Nginx, Kubernetes
